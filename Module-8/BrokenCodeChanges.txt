@@ -1,0 +1,31 @@
+edits
+
+boothedog.html
+
+img class needed an < to get the image to display
+
+On the list of favorite things the writer forgot to put <li> on the ends to indicate list.
+
+A few formatting issues on the html I edited that weren't functional but made it easier to read.
+
+
+<script type="text/javascript" src="errors.js"></script> was changed to <script type="text/javascript" src="logic.js"></script>
+
+Changed buttons to match color by changing id tags in html
+
+logic.js
+
+#changed pink to "pink"
+$("#textPink").on("click", function() {
+	$("#funText").css("color", "pink")
+})
+
+
+Added quotations around the "click" on the grow shrink commands.
+
+Changed var booFacts to booFactsArray and separated list items with quotes.
+
+
+style.css
+
+Font size needs to be bigger for title so I changed to <h1> tags

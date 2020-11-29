@@ -1,0 +1,27 @@
+h1,hr,h2{
+    text-align: center;
+}
+
+.red{color: red;}
+.blue{color: blue;}
+.green{color: green;}
+
+.big{font-size: 50pt;}
+.tiny{font-size: 2pt;}
+
+.centered{text-align: center;}
+.bold{font-weight: bold;}
+.font{font-family: font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+
+.multiple{
+    color: green;
+    font-size: 25pt;
+    font-weight: bold;
+    text-align: right;
+}
+
+.styledImage{
+    border: 5px solid red;
+}
+
+
